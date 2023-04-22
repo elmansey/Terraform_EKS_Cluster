@@ -12,9 +12,9 @@ ami_type = "AL2_x86_64"
 capacity_type = "ON_DEMAND"
 disk_size = 20
 instance_types = ["t2.small"]
-desired_size= 2
-max_size= 2
-min_size= 2
+desired_size= 3
+max_size= 3
+min_size= 3
 max_unavailable=1
 Kubernetes_version="1.25"
 
