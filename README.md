@@ -6,7 +6,8 @@ This repository contains the Terraform code to deploy infrastructure on AWS. It 
 
 The following diagram represents the architecture of the project:
 
-![image](https://user-images.githubusercontent.com/89076648/233783139-4b56c52f-d57b-4615-8325-67a4f4d36b43.png)
+![image](https://user-images.githubusercontent.com/89076648/233785549-a38c2859-866a-48d1-83be-843e906725aa.png)
+
 ## Overview
 
 This project uses Terraform to create the following AWS resources:
